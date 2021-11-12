@@ -63,10 +63,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-<<<<<<< HEAD
-    <Compile Include="Biblioteca.cs" />
-=======
->>>>>>> Biblioteca
     <Compile Include="Libro.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
