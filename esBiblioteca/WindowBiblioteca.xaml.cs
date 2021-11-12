@@ -64,5 +64,6 @@ namespace esBiblioteca
                 MessageBox.Show(ex.Message, "ERRORE", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
+        //commento per git log
     }
 }
